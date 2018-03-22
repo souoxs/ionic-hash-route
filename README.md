@@ -4,7 +4,7 @@
 
 ## About Version Info
 
-### current ionic version is 3.9.2
+### current ionic version is 3.20.0
 
 cli packages:
 
